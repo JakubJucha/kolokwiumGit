@@ -4,3 +4,4 @@ zmiana03
 zmiana03b
 ProstaWersja
 zmiana2
+zmiana06
